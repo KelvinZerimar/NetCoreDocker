@@ -1,2 +1,2 @@
 # NetCoreDocker
-Project net core , PostgrapQL and Docker
+Project net core 3.1, PostgrapQL and Docker
